@@ -1,0 +1,43 @@
+C:\Users\bncnz\Desktop\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\bncnz\Desktop\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\bncnz\Desktop\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.logIn.resources
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.newUser.resources
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.mainForm.resources
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.stocks.resources
+C:\Users\bncnz\Desktop\InventorySystem\obj\Debug\InventorySystem.orders.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\bin\Debug\InventorySystem.exe
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.csproj.SuggestedBindingRedirects.cache
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.logIn.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.mainForm.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.newUser.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.orders.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.stocks.resources
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.exe
+E:\MCL\MCL 2\MCL 2 - 1T\Inventory System\InventorySystem\obj\Debug\InventorySystem.pdb
+E:\chotiinventary\InventorySystem\bin\Debug\InventorySystem.exe.config
+E:\chotiinventary\InventorySystem\bin\Debug\InventorySystem.exe
+E:\chotiinventary\InventorySystem\bin\Debug\InventorySystem.pdb
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.csproj.AssemblyReference.cache
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.logIn.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.mainForm.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.newUser.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.orders.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.stocks.resources
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.exe
+E:\chotiinventary\InventorySystem\obj\Debug\InventorySystem.pdb
